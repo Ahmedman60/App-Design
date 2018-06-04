@@ -1,0 +1,11 @@
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.exe.config
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.exe
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.pdb
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Form1.resources
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Properties.Resources.resources
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.csproj.GenerateResource.Cache
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.exe
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.pdb
+c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.ucontrol.UserControl1.resources
+C:\Users\Mo-Feto\Documents\Visual Studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.csprojResolveAssemblyReference.cache
+C:\Users\Mo-Feto\Documents\Visual Studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Form2.resources
