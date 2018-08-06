@@ -9,3 +9,15 @@ c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Desi
 c:\users\mo-feto\documents\visual studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.ucontrol.UserControl1.resources
 C:\Users\Mo-Feto\Documents\Visual Studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.csprojResolveAssemblyReference.cache
 C:\Users\Mo-Feto\Documents\Visual Studio 2015\Projects\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Form2.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.exe.config
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.exe
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.pdb
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.exe
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\bin\Debug\Task_Design-APP.pdb
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.csprojResolveAssemblyReference.cache
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Closing_Pccs.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Form1.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Form2.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.Properties.Resources.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design_APP.ucontrol.UserControl1.resources
+C:\Users\Mo-Feto\Documents\GitHub\App-Design\Task_Design-APP\Task_Design-APP\obj\Debug\Task_Design-APP.csproj.GenerateResource.Cache

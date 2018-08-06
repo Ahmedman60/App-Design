@@ -158,6 +158,12 @@ namespace Task_Design_APP
             label7.Text = DateTime.Now.ToShortTimeString();
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Closing_Pccs s = new Closing_Pccs();
+            s.Show();
+        }
+
         private void panel1_MouseMove(object sender, MouseEventArgs e)
         {
             if (mousedown==true)
